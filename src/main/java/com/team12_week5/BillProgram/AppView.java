@@ -8,5 +8,9 @@ public class AppView {
 	
 	public void startMenu(){
 		System.out.println("안녕하세요. AppView 만들었습니다.");
+	
+		System.out.println("안녕하세요. AppView 만들었습니다.");
+		System.out.println("안녕하세요. AppView 만들었습니다.");
+		System.out.println("안녕하세요. AppView 만들었습니다.");
 	}
 }
